@@ -1,0 +1,25 @@
+html {
+    background-color: #d4e4c6;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    border: 4mm ridge rgba(99, 104, 26, 0.781);
+}
+
+img.projects {
+    border: 1mm groove green;
+}
+
+h1, h2, #contact {
+    text-align: center;
+}
+
+div.projects {
+    text-align: left;
+}
+
+#header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
